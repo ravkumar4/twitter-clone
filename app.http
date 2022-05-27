@@ -1,0 +1,11 @@
+###
+
+POST http://localhost:3000/register
+Content-Type: 'application/json'
+
+{
+  "name": "Adam Richard",
+  "username": "adam_richard",
+  "password": "richard_567",
+  "gender": "male"
+}
